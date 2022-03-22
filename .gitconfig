@@ -1,0 +1,7 @@
+[user]
+	name = cybprom
+	email = ilerioluwac@gmail.com
+[color]
+	ui = true
+[core]
+	editor = \"C:\\Users\\Hpfolio\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code.cmd\" --wait
